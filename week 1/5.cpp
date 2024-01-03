@@ -1,4 +1,5 @@
-    #include<iostream>
+//https://codeforces.com/problemset/problem/572/A
+#include<iostream>
     #include<vector>
     #include<algorithm>
     using namespace std;
